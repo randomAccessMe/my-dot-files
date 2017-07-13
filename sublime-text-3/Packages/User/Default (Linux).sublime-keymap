@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+alt+s"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+	{ "keys": ["ctrl+shift+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["alt+1"], "command": "toggle_side_bar", "toggle":true},
+
+]

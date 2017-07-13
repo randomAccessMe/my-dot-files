@@ -1,0 +1,2241 @@
+{
+	"folder_history":
+	[
+		"/home/rami/Code/More/scoreboard-cwl-nogit",
+		"/home/rami/Code/scoreboard-cwl",
+		"/home/rami/Code/turris-production-sheets",
+		"/home/rami/Code/powertran",
+		"/home/rami/.config",
+		"/home/rami/Code/powertran/.config",
+		"/home/rami/Code/php-docker",
+		"/home/rami/Code/php-docker/phpbase-gulp",
+		"/home/rami/.config/i3",
+		"/home/rami/sql dumps",
+		"/home/rami/Code/MCRGO TEMP",
+		"/home/rami/Code",
+		"/home/rami/Code/PCE",
+		"/home/rami/Code/edit-gsc-eof-beta",
+		"/home/rami/Code/edit-gsc-eof",
+		"/home/rami/Code/edit-cwl-scoreboard",
+		"/home/rami/Code/aaa1b-contracts",
+		"/home/rami/Code/edit-gsc-tracking",
+		"/home/rami/Code/edit-scoreboard",
+		"/home/rami/Code/edit-dye-n-dash",
+		"/home/rami/Code/edit-gsc-eof/app",
+		"/home/rami/Code/gsc-eof",
+		"/home/rami/Code/scoreboard",
+		"/home/rami/Code/edit-gsc-eof-beta/public",
+		"/home/rami/Code/eghrm",
+		"/home/ralmaleh/Code/eghrm",
+		"/home/ralmaleh/Code/node/js-everywhere",
+		"/home/ralmaleh/Code/gsc-tracking-original",
+		"/home/ralmaleh/Code/gsc-tracking",
+		"/home/ralmaleh/Code/edit-gsc-tracking",
+		"/home/ralmaleh/Code/edit-cwl-scoreboard",
+		"/home/ralmaleh/Code/execeo",
+		"/home/ralmaleh/Code/php-docker",
+		"/home/ralmaleh/Code/gsc-eof",
+		"/home/ralmaleh/Code/scoreboard",
+		"/home/ralmaleh/Code/aaa-callback-app",
+		"/home/ralmaleh/Code/node",
+		"/home/ralmaleh/Code/edit-gsc-eof",
+		"/home/ralmaleh/Code/edit-scoreboard",
+		"/home/ralmaleh/Code/edit-gsc-eof-beta",
+		"/home/ralmaleh/Code/edit-innsider",
+		"/home/ralmaleh/Code/edit-cottageinn",
+		"/home/ralmaleh/Code/web1",
+		"/home/ralmaleh/Downloads/melon admin theme"
+	],
+	"last_version": 3126,
+	"last_window_id": 125,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 819.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sales",
+						"sales_tax"
+					],
+					[
+						"shipping",
+						"shipping_cost"
+					],
+					[
+						"reload",
+						"reloadPage"
+					],
+					[
+						"dt",
+						"dtOptions"
+					],
+					[
+						"strto",
+						"strtoupper"
+					],
+					[
+						"order",
+						"orders_query"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"sea",
+						"searching"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"to",
+						"to_emails"
+					],
+					[
+						"ac",
+						"actual_password"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"wee",
+						"weekDates"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"first",
+						"first_name"
+					],
+					[
+						"pa",
+						"paymentTerms"
+					],
+					[
+						"shippin",
+						"shippingMethods"
+					],
+					[
+						"update",
+						"updateCached"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"signature",
+						"signature_data_url"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"local",
+						"local_order"
+					],
+					[
+						"MMT",
+						"MMTrackingLocal"
+					],
+					[
+						"approve",
+						"approve_date"
+					],
+					[
+						"customer",
+						"customer_id"
+					],
+					[
+						"trac",
+						"tracking_id"
+					],
+					[
+						"rush",
+						"rush_type"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 96.0,
+				"last_filter": "install pac",
+				"selected_items":
+				[
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"foc",
+						"Focus File on Sidebar"
+					],
+					[
+						"install package ",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"pug",
+						"Set Syntax: Pug"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"package instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 114.0,
+				"history":
+				[
+					"sidebar_separator",
+					"sidebar_seperator",
+					"pwd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rami/.config/enchant/en_US.exc",
+				"/home/rami/.config/menus/applications-merged/user-chrome-apps.menu",
+				"/home/rami/.config/QtProject.conf",
+				"/home/rami/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/rami/.config/compton/config.older",
+				"/home/rami/.config/sublime-text-3/Packages/SidebarSeparator/SidebarSeparator.sublime-settings",
+				"/home/rami/.config/sublime-text-3/Packages/SidebarSeparator/Default (Linux).sublime-keymap",
+				"/home/rami/.config/sublime-text-3/Packages/User/sidebar_separator.sublime-settings",
+				"/home/rami/sql dumps/DATAESM_7_5_local_backup.sql",
+				"/home/rami/.Xresources",
+				"/etc/i3/config",
+				"/home/rami/.config/compton/config",
+				"/home/rami/.config/i3/config",
+				"/home/rami/sql dumps/DATAESM_6_28_17.sql",
+				"/home/rami/Code/PCE/transfer_to_mysql.cmd",
+				"/home/rami/sql dumps/DATAESM-app-tables.sql",
+				"/home/rami/matt notes",
+				"/home/rami/PCE Table Conventions.txt",
+				"/home/rami/select.sql",
+				"/home/rami/Code/PCE/test_def",
+				"/home/rami/Code/PCE/table_def",
+				"/run/media/rami/733c0f2f-539b-41ec-bb12-7747d6947560/pacman.txt",
+				"/home/rami/Code/edit-gsc-eof/resources/views/order-summary.blade.php",
+				"/home/rami/Code/aaa1b-dev/.env",
+				"/home/rami/Downloads/ca.crt",
+				"/home/rami/Downloads/client.crt",
+				"/home/rami/Downloads/client.key",
+				"/home/rami/Code/edit-gsc-eof/public/templates/order/new.html",
+				"/home/rami/Code/edit-gsc-eof/resources/views/accounting-order-summary.blade.php",
+				"/home/rami/Downloads/esm.conf",
+				"/home/rami/Code/edit-gsc-eof/public/app/controllers/new-order.js",
+				"/home/rami/Code/edit-gsc-eof/storage/framework/views/d630ead44fde3d1203dea6fc6a252936",
+				"/home/rami/Code/edit-gsc-eof/public/eof.appcache",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Http/Controllers/OrderController.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/templates/order/new.html",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/controllers/new-order.js",
+				"/home/rami/Code/edit-gsc-eof-beta/public/eof.appcache",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/controllers/all-orders.js",
+				"/home/rami/Code/edit-gsc-eof-beta/public/templates/order/all.html",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Models/Order.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/templates/order/customer.html",
+				"/home/rami/Code/edit-gsc-eof-beta/public/index.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/login.html",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/app.js",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Http/Controllers/CustomerController.php",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Http/routes.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/cache.manifest",
+				"/home/rami/Code/edit-gsc-eof-beta/public/tos.html",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/routes.js",
+				"/home/rami/Code/edit-gsc-eof/public/templates/order/mine.html",
+				"/home/rami/Code/edit-gsc-eof/public/app/controllers/my-orders.js",
+				"/home/rami/Code/edit-gsc-eof-beta/vendor/nikic/fast-route/src/Route.php",
+				"/home/rami/Code/edit-gsc-tracking/app/Gsc/Customer/OrderController.php",
+				"/home/rami/Code/edit-gsc-tracking/app/Gsc/Data/GscApi.php",
+				"/home/rami/Code/edit-gsc-tracking/app/config/database.php",
+				"/home/rami/Code/edit-gsc-tracking/app/views/order/pending.blade.php",
+				"/home/rami/Code/edit-gsc-tracking/app/config/app.php",
+				"/home/rami/Code/edit-scoreboard/app/Cwl/Report/ReportController.php",
+				"/home/rami/Downloads/asdasd (14).zip",
+				"/home/rami/Downloads/asdasd (16).zip",
+				"/home/rami/Downloads/asd.zip",
+				"/home/rami/Downloads/asd (1).zip",
+				"/home/rami/Downloads/asd (3).zip",
+				"/home/rami/.cache/.fr-IEPhJO/readme.txt",
+				"/home/rami/.cache/.fr-cvB44k/readme.txt",
+				"/home/rami/.cache/.fr-NCLqI2/readme.txt",
+				"/home/rami/.cache/.fr-OwmwuS/readme.txt",
+				"/home/rami/.cache/.fr-7gLA07/readme.txt",
+				"/home/rami/.cache/.fr-IfKBcs/readme.txt",
+				"/home/rami/.cache/.fr-LVq3QR/readme.txt",
+				"/home/rami/Downloads/data_grab.php",
+				"/home/rami/Downloads/get_number.php",
+				"/home/rami/Downloads/member_init.php",
+				"/home/rami/Code/edit-gsc-eof/resources/views/index.php",
+				"/home/rami/Code/edit-gsc-eof/node_modules/flagged-respawn/lib/reorder.js",
+				"/home/rami/Code/edit-gsc-eof-beta/public/templates/order/customer.new.html",
+				"/home/rami/Code/edit-gsc-eof-beta/resources/views/index.php",
+				"/home/rami/Code/edit-gsc-eof-beta/config/database.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/services.js",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/filters.js",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Models/TrackingCustomer.php",
+				"/home/rami/Code/edit-gsc-eof-beta/node_modules/ansi-regex/package.json",
+				"/home/rami/Code/edit-gsc-eof-beta/node_modules/normalize-package-data/test/fixtures/npm.json",
+				"/home/rami/Code/edit-gsc-eof-beta/.env",
+				"/home/rami/Code/edit-gsc-eof/server.php",
+				"/home/ralmaleh/Code/gsc-tracking-original/.gitignore",
+				"/home/ralmaleh/.cache/.fr-HyNTEg/idea-IU-171.3780.107/Install-Linux-tar.txt",
+				"/home/ralmaleh/Code/eghrm/resources/assets/pug/training-course/new-training-course.pug",
+				"/home/ralmaleh/Code/eghrm/resources/assets/pug/training-course/edit-training-course.pug",
+				"/home/ralmaleh/Code/eghrm/resources/assets/pug/user/training-courses.pug",
+				"/home/ralmaleh/Code/eghrm/resources/assets/pug/training-course/training-course-users.pug",
+				"/home/ralmaleh/Code/edit-cwl-scoreboard/app/Cwl/Dashboard/DashboardController.php",
+				"/home/ralmaleh/Code/node/js-everywhere/backend/app.ts",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/order/view.html",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/order/new.html",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/order/edit.html",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/app/controllers/edit-order.js",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/app/controllers/new-order.js",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/eof.appcache",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Models/Order.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/.env",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/app/controllers/my-orders.js",
+				"/home/ralmaleh/Desktop/servers",
+				"/home/ralmaleh/Desktop/Work Center Scheduling",
+				"/home/ralmaleh/Desktop/Work Center Scheduling for Matt",
+				"/home/ralmaleh/Desktop/Report Queries for Matt",
+				"/home/ralmaleh/Desktop/egroup post review",
+				"/home/ralmaleh/Downloads/CustomizationSheets.sql",
+				"/home/ralmaleh/Downloads/tblMountingOptions.sql",
+				"/home/ralmaleh/Downloads/convertcsv.sql",
+				"/home/ralmaleh/Downloads/convertcsvcompleted.sql",
+				"/home/ralmaleh/dumps/calls-3-7-17.sql",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/report/sales-summary.html",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/report/sales.html",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Http/Controllers/OrderController.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Console/Kernel.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/eof.appcache",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/app/controllers/all-orders.js",
+				"/tmp/fz3temp-2/eof.appcache",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/templates/order/all.html",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Console/Commands/SyncOrderApproveDate.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Console/Commands/SyncOrders.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Console/Commands/.gitkeep",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/templates/order/new.html",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/templates/order/edit.html",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/app/controllers/new-order.js",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/resources/views/accounting-order-summary.blade.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/database/migrations/2017_01_19_144928_add_rush_columns_to_orders_table.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"<open folders>",
+					"/home/rami/Code/edit-gsc-eof-beta/",
+					"/home/rami/Code/edit-gsc-eof-beta/public",
+					"/home/rami/Code/MCRGO TEMP/",
+					"/home/rami/Code/edit-cwl-scoreboard/app",
+					"/home/rami/Code/edit-cwl-scoreboard/public/",
+					"/home/rami/Code/edit-gsc-eof-beta/public/",
+					"/home/rami/Code/edit-gsc-eof-beta/public/app",
+					"/public/",
+					"<open folders>",
+					"/",
+					"app/views/",
+					"app/views/dashboard/",
+					"/app/views/dashboard/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"try",
+					"Exception",
+					"Mi",
+					"MI",
+					"Michigan",
+					"MI",
+					"Sending state",
+					"size",
+					"focus",
+					"sola",
+					"MY_DSN",
+					"DATABASE_NAME",
+					"$scope.sheet_selections = $scope",
+					"$scope.sheet_selections = $scope.getSheets($sco",
+					"production_id",
+					"production",
+					"production_id",
+					"$mod+l ",
+					"lock",
+					"+P",
+					"P",
+					"Ctrl",
+					"DATAESM_OLD",
+					"DATAESM",
+					"old_db",
+					"CONSTRAINT",
+					"'",
+					"(`id`;",
+					"id",
+					"d`;",
+					"` (`id`)",
+					"REFERENCES",
+					"FOREIGN KEY (`client`) REFERENCES",
+					"EIGN KEY (`client`) REFEREN",
+					"client",
+					"`) REFERENCES `client",
+					" REFERENCES `cli",
+					"`) REFERENCES `client` (`id`)\n",
+					" REFERENCES `client` (`id`)",
+					"REFERENCES `client` (`id`)\n",
+					"REFERENCES `client` (`id`)",
+					"KEY",
+					"CONSTRAINT",
+					"DATAESM",
+					"PCHCLTPF",
+					"DATAESM`.`",
+					"DATAESM`",
+					"DATANOC",
+					"no-startup",
+					"return",
+					"mod+Shift+f",
+					"Volume control\n",
+					" $",
+					"$mod+d",
+					"dmenu",
+					"pop",
+					"popu",
+					"tooltip",
+					"blur",
+					"override",
+					"tooltip",
+					"bar",
+					"Ctr",
+					"Con",
+					"shift",
+					"bidsym",
+					"lock",
+					"paci",
+					"menu",
+					"hidden",
+					"overrid",
+					"esmdash`@`%` SQL SECURITY DEFINER */",
+					"DEFINER",
+					"DEFINER */",
+					"definer",
+					"`auths`",
+					"auths",
+					"plan_start_date",
+					"PCHINFTF",
+					"ESB_PCHTPHPF",
+					"DATAESM.auths",
+					",",
+					"`",
+					"AS",
+					"`DATAESM`.`ESB_PCHAUDPF`.`AD_EFFDT` AS",
+					"`.`",
+					"AS ",
+					"DATANOC",
+					"DATAESM.",
+					"DATAESM.ESB_",
+					"ESB_",
+					"ESB",
+					"ESB_",
+					"SA_",
+					"AD_",
+					"CL",
+					"onsumer",
+					"consumer_last_name",
+					",",
+					"rma",
+					"num",
+					"shipdate",
+					" RMAReceipt != 0",
+					"WHERE \"",
+					"WHERE",
+					"AND ShipDate IS NOT NULL",
+					"su nginx -s /bin/sh -c \"",
+					"shipping_cos",
+					"su nginx -s /bin/sh -c \"",
+					"php artisan down\"\n",
+					"su nginx -s /bin/sh -c \"",
+					" \"",
+					"\"",
+					"71",
+					"NewShipDate",
+					"UPDATE",
+					"NewShipDate",
+					"ng-show=\"searching\"",
+					"// $scope.searching = ! $scope.searching;",
+					"103",
+					"reloadData();",
+					"changeOptions",
+					";",
+					"approved;\n",
+					";",
+					"data.",
+					")}, false)",
+					"localStorage"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"calls_temp",
+					"arobotech.com"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"reportcon",
+						"app/Cwl/Report/ReportController.php"
+					],
+					[
+						"compton",
+						"compton/config"
+					],
+					[
+						"i3/",
+						"i3/config"
+					],
+					[
+						"",
+						"i3/config"
+					],
+					[
+						"compton/",
+						"compton/config"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"gulpfile",
+						"gulpfile.js"
+					],
+					[
+						"70",
+						"php70-gulp/Dockerfile"
+					],
+					[
+						"56",
+						"php56-gulp/Dockerfile"
+					],
+					[
+						"nodeedot",
+						"resources/assets/js/directives/node-editor/node-editor.js"
+					],
+					[
+						"app.js",
+						"resources/assets/js/app.js"
+					],
+					[
+						"app",
+						"public/scripts/app.js"
+					],
+					[
+						"compton/c",
+						"compton/config"
+					],
+					[
+						"config.ol",
+						"compton/config.older"
+					],
+					[
+						"i3/con",
+						"i3/old.config"
+					],
+					[
+						".sq",
+						"~/select.sql"
+					],
+					[
+						"new",
+						"public/templates/order/new.html"
+					],
+					[
+						"neworder",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"ordersu",
+						"resources/views/order-summary.blade.php"
+					],
+					[
+						"acc",
+						"resources/views/accounting-order-summary.blade.php"
+					],
+					[
+						"d630ead44fde3d1203dea6fc6a252936",
+						"storage/framework/views/d630ead44fde3d1203dea6fc6a252936"
+					],
+					[
+						"eof",
+						"public/eof.appcache"
+					],
+					[
+						"ordercon",
+						"app/Http/Controllers/OrderController.php"
+					],
+					[
+						"order",
+						"app/Http/Controllers/OrderController.php"
+					],
+					[
+						"token",
+						"app/Http/Middleware/TokenAuthMiddleware.php"
+					],
+					[
+						"routes",
+						"app/Http/routes.php"
+					],
+					[
+						"all",
+						"public/templates/order/all.html"
+					],
+					[
+						"eofapp",
+						"public/eof.appcache"
+					],
+					[
+						"allord",
+						"public/app/controllers/all-orders.js"
+					],
+					[
+						"orderc",
+						"app/Http/Controllers/OrderController.php"
+					],
+					[
+						"eofap",
+						"public/eof.appcache"
+					],
+					[
+						"allorder",
+						"public/app/controllers/all-orders.js"
+					],
+					[
+						"neword",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"cust",
+						"public/templates/order/customer.html"
+					],
+					[
+						"customer",
+						"public/templates/order/customer.html"
+					],
+					[
+						"login",
+						"public/login.html"
+					],
+					[
+						"customercon",
+						"app/Http/Controllers/CustomerController.php"
+					],
+					[
+						"mine",
+						"public/templates/order/mine.html"
+					],
+					[
+						"myor",
+						"public/app/controllers/my-orders.js"
+					],
+					[
+						"card",
+						"app/Models/Card.php"
+					],
+					[
+						"rout",
+						"vendor/nikic/fast-route/src/Route.php"
+					],
+					[
+						"myorder",
+						"public/app/controllers/my-orders.js"
+					],
+					[
+						"data",
+						"app/config/database.php"
+					],
+					[
+						"gsca",
+						"app/Gsc/Data/GscApi.php"
+					],
+					[
+						"database",
+						"app/config/database.php"
+					],
+					[
+						"gsc",
+						"app/Gsc/Data/GscApi.php"
+					],
+					[
+						"pending",
+						"app/views/order/pending.blade.php"
+					],
+					[
+						"emailgr",
+						"app/Cwl/Email/EmailGroupEmail.php"
+					],
+					[
+						"reportc",
+						"app/Cwl/Report/ReportController.php"
+					],
+					[
+						"trackin",
+						"app/Models/TrackingCustomer.php"
+					],
+					[
+						"get_number",
+						"dev/get_number.php"
+					],
+					[
+						"member",
+						"wp-content/plugins/mcrgo-members/views/member.php"
+					],
+					[
+						"memberlo",
+						"member_login.php"
+					],
+					[
+						"dashboard",
+						"app/Cwl/Dashboard/DashboardController.php"
+					],
+					[
+						"index.blad",
+						"app/views/dashboard/index.blade.php"
+					],
+					[
+						"table",
+						"app/views/dashboard/table.blade.php"
+					],
+					[
+						"dashbo",
+						"app/Cwl/Dashboard/DashboardController.php"
+					],
+					[
+						"index.php",
+						"resources/views/index.php"
+					],
+					[
+						"new-order.js",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"index",
+						"resources/views/index.php"
+					],
+					[
+						"packa",
+						"node_modules/ansi-regex/package.json"
+					],
+					[
+						"npm",
+						"node_modules/normalize-package-data/test/fixtures/npm.json"
+					],
+					[
+						"new.html",
+						"public/templates/order/new.html"
+					],
+					[
+						"gitignore",
+						".gitignore"
+					],
+					[
+						"git",
+						"app/storage/.gitignore"
+					],
+					[
+						"drive/index",
+						"protected/views/drive/index.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"usercon",
+						"app/Http/Controllers/UserController.php"
+					],
+					[
+						"trainingcourses",
+						"resources/assets/pug/user/training-courses.pug"
+					],
+					[
+						"newtrainin",
+						"resources/assets/pug/training-course/new-training-course.pug"
+					],
+					[
+						"bower",
+						"bower.json"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"trainincourc",
+						"resources/assets/js/controllers/TrainingCourseCtrl.js"
+					],
+					[
+						"dashobo",
+						"app/Cwl/Dashboard/DashboardController.php"
+					],
+					[
+						"views/inde",
+						"app/views/dashboard/index.blade.php"
+					],
+					[
+						"calls",
+						"app/Http/Controllers/CallsController.php"
+					],
+					[
+						"callscon",
+						"app/Http/Controllers/CallsController.php"
+					],
+					[
+						"apifac",
+						"resources/assets/js/factories/ApiFactory.js"
+					],
+					[
+						"adminhome",
+						"resources/assets/js/controllers/admin/AdminHomeCtrl.js"
+					],
+					[
+						"homect",
+						"resources/assets/js/controllers/HomeCtrl.js"
+					],
+					[
+						"home",
+						"resources/views/templates/admin/home.jade"
+					],
+					[
+						"email",
+						"backend/base/Email.ts"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"backend/",
+						"backend/app.ts"
+					],
+					[
+						"view",
+						"public/templates/order/view.html"
+					],
+					[
+						"edit",
+						"public/templates/order/edit.html"
+					],
+					[
+						"editoe",
+						"public/app/controllers/edit-order.js"
+					],
+					[
+						"eo",
+						"public/eof.appcache"
+					],
+					[
+						"eofc",
+						"public/eof.appcache"
+					],
+					[
+						"neworde",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"edito",
+						"public/app/controllers/edit-order.js"
+					],
+					[
+						"sales",
+						"public/templates/report/sales-summary.html"
+					],
+					[
+						"syncorder",
+						"app/Console/Commands/SyncOrders.php"
+					],
+					[
+						"accounting",
+						"resources/views/accounting-order-summary.blade.php"
+					],
+					[
+						"addinter",
+						"database/migrations/2017_02_08_172503_add_internal_notes_to_orders.php"
+					],
+					[
+						"appca",
+						"public/eof.appcache"
+					],
+					[
+						"02fe325daad7fadfc7e034b0823e7bb7",
+						"storage/framework/views/02fe325daad7fadfc7e034b0823e7bb7"
+					],
+					[
+						"accoun",
+						"resources/views/accounting-order-summary.blade.php"
+					],
+					[
+						"editorder",
+						"public/app/controllers/edit-order.js"
+					],
+					[
+						"ordersumm",
+						"resources/views/order-summary.blade.php"
+					],
+					[
+						"signature",
+						"public/lib/signature_pad.js"
+					],
+					[
+						"mmtrac",
+						"app/Models/MMTrackingLocal.php"
+					],
+					[
+						"nreorder",
+						"public/app/controllers/edit-order.js"
+					],
+					[
+						"eofca",
+						"public/eof.appcache"
+					],
+					[
+						"accou",
+						"resources/views/accounting-order-summary.blade.php"
+					],
+					[
+						"add_",
+						"database/migrations/2017_01_17_170911_add_date_approved_to_orders_table.php"
+					],
+					[
+						"migrations/",
+						"database/migrations/.gitkeep"
+					],
+					[
+						"ordercno",
+						"app/Http/Controllers/OrderController.php"
+					],
+					[
+						"newo",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"authmid",
+						"app/Http/Middleware/TokenAuthMiddleware.php"
+					],
+					[
+						"usercp",
+						"app/Http/Controllers/UserController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 1054.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 271.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 466.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sales",
+						"sales_tax"
+					],
+					[
+						"shipping",
+						"shipping_cost"
+					],
+					[
+						"reload",
+						"reloadPage"
+					],
+					[
+						"dt",
+						"dtOptions"
+					],
+					[
+						"strto",
+						"strtoupper"
+					],
+					[
+						"order",
+						"orders_query"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"sea",
+						"searching"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"to",
+						"to_emails"
+					],
+					[
+						"ac",
+						"actual_password"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"wee",
+						"weekDates"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"first",
+						"first_name"
+					],
+					[
+						"pa",
+						"paymentTerms"
+					],
+					[
+						"shippin",
+						"shippingMethods"
+					],
+					[
+						"update",
+						"updateCached"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"signature",
+						"signature_data_url"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"local",
+						"local_order"
+					],
+					[
+						"MMT",
+						"MMTrackingLocal"
+					],
+					[
+						"approve",
+						"approve_date"
+					],
+					[
+						"customer",
+						"customer_id"
+					],
+					[
+						"trac",
+						"tracking_id"
+					],
+					[
+						"rush",
+						"rush_type"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/rami/.config/compton/config",
+					"settings":
+					{
+						"buffer_size": 5876,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/rami/.config/i3/config",
+					"settings":
+					{
+						"buffer_size": 7511,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 96.0,
+				"last_filter": "install pac",
+				"selected_items":
+				[
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"foc",
+						"Focus File on Sidebar"
+					],
+					[
+						"install package ",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"pug",
+						"Set Syntax: Pug"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"package instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 114.0,
+				"history":
+				[
+					"sidebar_separator",
+					"sidebar_seperator",
+					"pwd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/rami/.config"
+			],
+			"file_history":
+			[
+				"/home/rami/.config/enchant/en_US.exc",
+				"/home/rami/.config/menus/applications-merged/user-chrome-apps.menu",
+				"/home/rami/.config/QtProject.conf",
+				"/home/rami/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/rami/.config/compton/config.older",
+				"/home/rami/.config/sublime-text-3/Packages/SidebarSeparator/SidebarSeparator.sublime-settings",
+				"/home/rami/.config/sublime-text-3/Packages/SidebarSeparator/Default (Linux).sublime-keymap",
+				"/home/rami/.config/sublime-text-3/Packages/User/sidebar_separator.sublime-settings",
+				"/home/rami/sql dumps/DATAESM_7_5_local_backup.sql",
+				"/home/rami/.Xresources",
+				"/etc/i3/config",
+				"/home/rami/.config/compton/config",
+				"/home/rami/.config/i3/config",
+				"/home/rami/sql dumps/DATAESM_6_28_17.sql",
+				"/home/rami/Code/PCE/transfer_to_mysql.cmd",
+				"/home/rami/sql dumps/DATAESM-app-tables.sql",
+				"/home/rami/matt notes",
+				"/home/rami/PCE Table Conventions.txt",
+				"/home/rami/select.sql",
+				"/home/rami/Code/PCE/test_def",
+				"/home/rami/Code/PCE/table_def",
+				"/run/media/rami/733c0f2f-539b-41ec-bb12-7747d6947560/pacman.txt",
+				"/home/rami/Code/edit-gsc-eof/resources/views/order-summary.blade.php",
+				"/home/rami/Code/aaa1b-dev/.env",
+				"/home/rami/Downloads/ca.crt",
+				"/home/rami/Downloads/client.crt",
+				"/home/rami/Downloads/client.key",
+				"/home/rami/Code/edit-gsc-eof/public/templates/order/new.html",
+				"/home/rami/Code/edit-gsc-eof/resources/views/accounting-order-summary.blade.php",
+				"/home/rami/Downloads/esm.conf",
+				"/home/rami/Code/edit-gsc-eof/public/app/controllers/new-order.js",
+				"/home/rami/Code/edit-gsc-eof/storage/framework/views/d630ead44fde3d1203dea6fc6a252936",
+				"/home/rami/Code/edit-gsc-eof/public/eof.appcache",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Http/Controllers/OrderController.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/templates/order/new.html",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/controllers/new-order.js",
+				"/home/rami/Code/edit-gsc-eof-beta/public/eof.appcache",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/controllers/all-orders.js",
+				"/home/rami/Code/edit-gsc-eof-beta/public/templates/order/all.html",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Models/Order.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/templates/order/customer.html",
+				"/home/rami/Code/edit-gsc-eof-beta/public/index.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/login.html",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/app.js",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Http/Controllers/CustomerController.php",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Http/routes.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/cache.manifest",
+				"/home/rami/Code/edit-gsc-eof-beta/public/tos.html",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/routes.js",
+				"/home/rami/Code/edit-gsc-eof/public/templates/order/mine.html",
+				"/home/rami/Code/edit-gsc-eof/public/app/controllers/my-orders.js",
+				"/home/rami/Code/edit-gsc-eof-beta/vendor/nikic/fast-route/src/Route.php",
+				"/home/rami/Code/edit-gsc-tracking/app/Gsc/Customer/OrderController.php",
+				"/home/rami/Code/edit-gsc-tracking/app/Gsc/Data/GscApi.php",
+				"/home/rami/Code/edit-gsc-tracking/app/config/database.php",
+				"/home/rami/Code/edit-gsc-tracking/app/views/order/pending.blade.php",
+				"/home/rami/Code/edit-gsc-tracking/app/config/app.php",
+				"/home/rami/Code/edit-scoreboard/app/Cwl/Report/ReportController.php",
+				"/home/rami/Downloads/asdasd (14).zip",
+				"/home/rami/Downloads/asdasd (16).zip",
+				"/home/rami/Downloads/asd.zip",
+				"/home/rami/Downloads/asd (1).zip",
+				"/home/rami/Downloads/asd (3).zip",
+				"/home/rami/.cache/.fr-IEPhJO/readme.txt",
+				"/home/rami/.cache/.fr-cvB44k/readme.txt",
+				"/home/rami/.cache/.fr-NCLqI2/readme.txt",
+				"/home/rami/.cache/.fr-OwmwuS/readme.txt",
+				"/home/rami/.cache/.fr-7gLA07/readme.txt",
+				"/home/rami/.cache/.fr-IfKBcs/readme.txt",
+				"/home/rami/.cache/.fr-LVq3QR/readme.txt",
+				"/home/rami/Downloads/data_grab.php",
+				"/home/rami/Downloads/get_number.php",
+				"/home/rami/Downloads/member_init.php",
+				"/home/rami/Code/edit-gsc-eof/resources/views/index.php",
+				"/home/rami/Code/edit-gsc-eof/node_modules/flagged-respawn/lib/reorder.js",
+				"/home/rami/Code/edit-gsc-eof-beta/public/templates/order/customer.new.html",
+				"/home/rami/Code/edit-gsc-eof-beta/resources/views/index.php",
+				"/home/rami/Code/edit-gsc-eof-beta/config/database.php",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/services.js",
+				"/home/rami/Code/edit-gsc-eof-beta/public/app/filters.js",
+				"/home/rami/Code/edit-gsc-eof-beta/app/Models/TrackingCustomer.php",
+				"/home/rami/Code/edit-gsc-eof-beta/node_modules/ansi-regex/package.json",
+				"/home/rami/Code/edit-gsc-eof-beta/node_modules/normalize-package-data/test/fixtures/npm.json",
+				"/home/rami/Code/edit-gsc-eof-beta/.env",
+				"/home/rami/Code/edit-gsc-eof/server.php",
+				"/home/ralmaleh/Code/gsc-tracking-original/.gitignore",
+				"/home/ralmaleh/.cache/.fr-HyNTEg/idea-IU-171.3780.107/Install-Linux-tar.txt",
+				"/home/ralmaleh/Code/eghrm/resources/assets/pug/training-course/new-training-course.pug",
+				"/home/ralmaleh/Code/eghrm/resources/assets/pug/training-course/edit-training-course.pug",
+				"/home/ralmaleh/Code/eghrm/resources/assets/pug/user/training-courses.pug",
+				"/home/ralmaleh/Code/eghrm/resources/assets/pug/training-course/training-course-users.pug",
+				"/home/ralmaleh/Code/edit-cwl-scoreboard/app/Cwl/Dashboard/DashboardController.php",
+				"/home/ralmaleh/Code/node/js-everywhere/backend/app.ts",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/order/view.html",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/order/new.html",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/order/edit.html",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/app/controllers/edit-order.js",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/app/controllers/new-order.js",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/eof.appcache",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Models/Order.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/.env",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/app/controllers/my-orders.js",
+				"/home/ralmaleh/Desktop/servers",
+				"/home/ralmaleh/Desktop/Work Center Scheduling",
+				"/home/ralmaleh/Desktop/Work Center Scheduling for Matt",
+				"/home/ralmaleh/Desktop/Report Queries for Matt",
+				"/home/ralmaleh/Desktop/egroup post review",
+				"/home/ralmaleh/Downloads/CustomizationSheets.sql",
+				"/home/ralmaleh/Downloads/tblMountingOptions.sql",
+				"/home/ralmaleh/Downloads/convertcsv.sql",
+				"/home/ralmaleh/Downloads/convertcsvcompleted.sql",
+				"/home/ralmaleh/dumps/calls-3-7-17.sql",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/report/sales-summary.html",
+				"/home/ralmaleh/Code/edit-gsc-eof/public/templates/report/sales.html",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Http/Controllers/OrderController.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Console/Kernel.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/eof.appcache",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/app/controllers/all-orders.js",
+				"/tmp/fz3temp-2/eof.appcache",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/templates/order/all.html",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Console/Commands/SyncOrderApproveDate.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Console/Commands/SyncOrders.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/app/Console/Commands/.gitkeep",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/templates/order/new.html",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/templates/order/edit.html",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/public/app/controllers/new-order.js",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/resources/views/accounting-order-summary.blade.php",
+				"/home/ralmaleh/Code/edit-gsc-eof-beta/database/migrations/2017_01_19_144928_add_rush_columns_to_orders_table.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"<open folders>",
+					"/home/rami/Code/edit-gsc-eof-beta/",
+					"/home/rami/Code/edit-gsc-eof-beta/public",
+					"/home/rami/Code/MCRGO TEMP/",
+					"/home/rami/Code/edit-cwl-scoreboard/app",
+					"/home/rami/Code/edit-cwl-scoreboard/public/",
+					"/home/rami/Code/edit-gsc-eof-beta/public/",
+					"/home/rami/Code/edit-gsc-eof-beta/public/app",
+					"/public/",
+					"<open folders>",
+					"/",
+					"app/views/",
+					"app/views/dashboard/",
+					"/app/views/dashboard/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"profiles",
+					"size",
+					"focus",
+					"sola",
+					"MY_DSN",
+					"DATABASE_NAME",
+					"$scope.sheet_selections = $scope",
+					"$scope.sheet_selections = $scope.getSheets($sco",
+					"production_id",
+					"production",
+					"production_id",
+					"$mod+l ",
+					"lock",
+					"+P",
+					"P",
+					"Ctrl",
+					"DATAESM_OLD",
+					"DATAESM",
+					"old_db",
+					"CONSTRAINT",
+					"'",
+					"(`id`;",
+					"id",
+					"d`;",
+					"` (`id`)",
+					"REFERENCES",
+					"FOREIGN KEY (`client`) REFERENCES",
+					"EIGN KEY (`client`) REFEREN",
+					"client",
+					"`) REFERENCES `client",
+					" REFERENCES `cli",
+					"`) REFERENCES `client` (`id`)\n",
+					" REFERENCES `client` (`id`)",
+					"REFERENCES `client` (`id`)\n",
+					"REFERENCES `client` (`id`)",
+					"KEY",
+					"CONSTRAINT",
+					"DATAESM",
+					"PCHCLTPF",
+					"DATAESM`.`",
+					"DATAESM`",
+					"DATANOC",
+					"no-startup",
+					"return",
+					"mod+Shift+f",
+					"Volume control\n",
+					" $",
+					"$mod+d",
+					"dmenu",
+					"pop",
+					"popu",
+					"tooltip",
+					"blur",
+					"override",
+					"tooltip",
+					"bar",
+					"Ctr",
+					"Con",
+					"shift",
+					"bidsym",
+					"lock",
+					"paci",
+					"menu",
+					"hidden",
+					"overrid",
+					"esmdash`@`%` SQL SECURITY DEFINER */",
+					"DEFINER",
+					"DEFINER */",
+					"definer",
+					"`auths`",
+					"auths",
+					"plan_start_date",
+					"PCHINFTF",
+					"ESB_PCHTPHPF",
+					"DATAESM.auths",
+					",",
+					"`",
+					"AS",
+					"`DATAESM`.`ESB_PCHAUDPF`.`AD_EFFDT` AS",
+					"`.`",
+					"AS ",
+					"DATANOC",
+					"DATAESM.",
+					"DATAESM.ESB_",
+					"ESB_",
+					"ESB",
+					"ESB_",
+					"SA_",
+					"AD_",
+					"CL",
+					"onsumer",
+					"consumer_last_name",
+					",",
+					"rma",
+					"num",
+					"shipdate",
+					" RMAReceipt != 0",
+					"WHERE \"",
+					"WHERE",
+					"AND ShipDate IS NOT NULL",
+					"su nginx -s /bin/sh -c \"",
+					"shipping_cos",
+					"su nginx -s /bin/sh -c \"",
+					"php artisan down\"\n",
+					"su nginx -s /bin/sh -c \"",
+					" \"",
+					"\"",
+					"71",
+					"NewShipDate",
+					"UPDATE",
+					"NewShipDate",
+					"ng-show=\"searching\"",
+					"// $scope.searching = ! $scope.searching;",
+					"103",
+					"reloadData();",
+					"changeOptions",
+					";",
+					"approved;\n",
+					";",
+					"data.",
+					")}, false)",
+					"localStorage",
+					"ng-click=\"window.location.reload()\" ",
+					"change",
+					"window.location.",
+					"ng-model",
+					"ng-show=\"searching\"",
+					"window."
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"calls_temp",
+					"arobotech.com"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/rami/.config"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/rami/.config/compton/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5876,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5798,
+										5798
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Textile/Textile.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 763.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/rami/.config/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7511,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5504,
+										5504
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 8,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2148.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,10,52,1590,914,3520,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"compton",
+						"compton/config"
+					],
+					[
+						"i3/",
+						"i3/config"
+					],
+					[
+						"",
+						"i3/config"
+					],
+					[
+						"compton/",
+						"compton/config"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"gulpfile",
+						"gulpfile.js"
+					],
+					[
+						"70",
+						"php70-gulp/Dockerfile"
+					],
+					[
+						"56",
+						"php56-gulp/Dockerfile"
+					],
+					[
+						"nodeedot",
+						"resources/assets/js/directives/node-editor/node-editor.js"
+					],
+					[
+						"app.js",
+						"resources/assets/js/app.js"
+					],
+					[
+						"app",
+						"public/scripts/app.js"
+					],
+					[
+						"compton/c",
+						"compton/config"
+					],
+					[
+						"config.ol",
+						"compton/config.older"
+					],
+					[
+						"i3/con",
+						"i3/old.config"
+					],
+					[
+						".sq",
+						"~/select.sql"
+					],
+					[
+						"new",
+						"public/templates/order/new.html"
+					],
+					[
+						"neworder",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"ordersu",
+						"resources/views/order-summary.blade.php"
+					],
+					[
+						"acc",
+						"resources/views/accounting-order-summary.blade.php"
+					],
+					[
+						"d630ead44fde3d1203dea6fc6a252936",
+						"storage/framework/views/d630ead44fde3d1203dea6fc6a252936"
+					],
+					[
+						"eof",
+						"public/eof.appcache"
+					],
+					[
+						"ordercon",
+						"app/Http/Controllers/OrderController.php"
+					],
+					[
+						"order",
+						"app/Http/Controllers/OrderController.php"
+					],
+					[
+						"token",
+						"app/Http/Middleware/TokenAuthMiddleware.php"
+					],
+					[
+						"routes",
+						"app/Http/routes.php"
+					],
+					[
+						"all",
+						"public/templates/order/all.html"
+					],
+					[
+						"eofapp",
+						"public/eof.appcache"
+					],
+					[
+						"allord",
+						"public/app/controllers/all-orders.js"
+					],
+					[
+						"orderc",
+						"app/Http/Controllers/OrderController.php"
+					],
+					[
+						"eofap",
+						"public/eof.appcache"
+					],
+					[
+						"allorder",
+						"public/app/controllers/all-orders.js"
+					],
+					[
+						"neword",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"cust",
+						"public/templates/order/customer.html"
+					],
+					[
+						"customer",
+						"public/templates/order/customer.html"
+					],
+					[
+						"login",
+						"public/login.html"
+					],
+					[
+						"customercon",
+						"app/Http/Controllers/CustomerController.php"
+					],
+					[
+						"mine",
+						"public/templates/order/mine.html"
+					],
+					[
+						"myor",
+						"public/app/controllers/my-orders.js"
+					],
+					[
+						"card",
+						"app/Models/Card.php"
+					],
+					[
+						"rout",
+						"vendor/nikic/fast-route/src/Route.php"
+					],
+					[
+						"myorder",
+						"public/app/controllers/my-orders.js"
+					],
+					[
+						"data",
+						"app/config/database.php"
+					],
+					[
+						"gsca",
+						"app/Gsc/Data/GscApi.php"
+					],
+					[
+						"database",
+						"app/config/database.php"
+					],
+					[
+						"gsc",
+						"app/Gsc/Data/GscApi.php"
+					],
+					[
+						"pending",
+						"app/views/order/pending.blade.php"
+					],
+					[
+						"emailgr",
+						"app/Cwl/Email/EmailGroupEmail.php"
+					],
+					[
+						"reportc",
+						"app/Cwl/Report/ReportController.php"
+					],
+					[
+						"trackin",
+						"app/Models/TrackingCustomer.php"
+					],
+					[
+						"reportcon",
+						"app/Cwl/Report/ReportController.php"
+					],
+					[
+						"get_number",
+						"dev/get_number.php"
+					],
+					[
+						"member",
+						"wp-content/plugins/mcrgo-members/views/member.php"
+					],
+					[
+						"memberlo",
+						"member_login.php"
+					],
+					[
+						"dashboard",
+						"app/Cwl/Dashboard/DashboardController.php"
+					],
+					[
+						"index.blad",
+						"app/views/dashboard/index.blade.php"
+					],
+					[
+						"table",
+						"app/views/dashboard/table.blade.php"
+					],
+					[
+						"dashbo",
+						"app/Cwl/Dashboard/DashboardController.php"
+					],
+					[
+						"index.php",
+						"resources/views/index.php"
+					],
+					[
+						"new-order.js",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"index",
+						"resources/views/index.php"
+					],
+					[
+						"packa",
+						"node_modules/ansi-regex/package.json"
+					],
+					[
+						"npm",
+						"node_modules/normalize-package-data/test/fixtures/npm.json"
+					],
+					[
+						"new.html",
+						"public/templates/order/new.html"
+					],
+					[
+						"gitignore",
+						".gitignore"
+					],
+					[
+						"git",
+						"app/storage/.gitignore"
+					],
+					[
+						"drive/index",
+						"protected/views/drive/index.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"usercon",
+						"app/Http/Controllers/UserController.php"
+					],
+					[
+						"trainingcourses",
+						"resources/assets/pug/user/training-courses.pug"
+					],
+					[
+						"newtrainin",
+						"resources/assets/pug/training-course/new-training-course.pug"
+					],
+					[
+						"bower",
+						"bower.json"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"trainincourc",
+						"resources/assets/js/controllers/TrainingCourseCtrl.js"
+					],
+					[
+						"dashobo",
+						"app/Cwl/Dashboard/DashboardController.php"
+					],
+					[
+						"views/inde",
+						"app/views/dashboard/index.blade.php"
+					],
+					[
+						"calls",
+						"app/Http/Controllers/CallsController.php"
+					],
+					[
+						"callscon",
+						"app/Http/Controllers/CallsController.php"
+					],
+					[
+						"apifac",
+						"resources/assets/js/factories/ApiFactory.js"
+					],
+					[
+						"adminhome",
+						"resources/assets/js/controllers/admin/AdminHomeCtrl.js"
+					],
+					[
+						"homect",
+						"resources/assets/js/controllers/HomeCtrl.js"
+					],
+					[
+						"home",
+						"resources/views/templates/admin/home.jade"
+					],
+					[
+						"email",
+						"backend/base/Email.ts"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"backend/",
+						"backend/app.ts"
+					],
+					[
+						"view",
+						"public/templates/order/view.html"
+					],
+					[
+						"edit",
+						"public/templates/order/edit.html"
+					],
+					[
+						"editoe",
+						"public/app/controllers/edit-order.js"
+					],
+					[
+						"eo",
+						"public/eof.appcache"
+					],
+					[
+						"eofc",
+						"public/eof.appcache"
+					],
+					[
+						"neworde",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"edito",
+						"public/app/controllers/edit-order.js"
+					],
+					[
+						"sales",
+						"public/templates/report/sales-summary.html"
+					],
+					[
+						"syncorder",
+						"app/Console/Commands/SyncOrders.php"
+					],
+					[
+						"accounting",
+						"resources/views/accounting-order-summary.blade.php"
+					],
+					[
+						"addinter",
+						"database/migrations/2017_02_08_172503_add_internal_notes_to_orders.php"
+					],
+					[
+						"appca",
+						"public/eof.appcache"
+					],
+					[
+						"02fe325daad7fadfc7e034b0823e7bb7",
+						"storage/framework/views/02fe325daad7fadfc7e034b0823e7bb7"
+					],
+					[
+						"accoun",
+						"resources/views/accounting-order-summary.blade.php"
+					],
+					[
+						"editorder",
+						"public/app/controllers/edit-order.js"
+					],
+					[
+						"ordersumm",
+						"resources/views/order-summary.blade.php"
+					],
+					[
+						"signature",
+						"public/lib/signature_pad.js"
+					],
+					[
+						"mmtrac",
+						"app/Models/MMTrackingLocal.php"
+					],
+					[
+						"nreorder",
+						"public/app/controllers/edit-order.js"
+					],
+					[
+						"eofca",
+						"public/eof.appcache"
+					],
+					[
+						"accou",
+						"resources/views/accounting-order-summary.blade.php"
+					],
+					[
+						"add_",
+						"database/migrations/2017_01_17_170911_add_date_approved_to_orders_table.php"
+					],
+					[
+						"migrations/",
+						"database/migrations/.gitkeep"
+					],
+					[
+						"ordercno",
+						"app/Http/Controllers/OrderController.php"
+					],
+					[
+						"newo",
+						"public/app/controllers/new-order.js"
+					],
+					[
+						"authmid",
+						"app/Http/Middleware/TokenAuthMiddleware.php"
+					],
+					[
+						"usercp",
+						"app/Http/Controllers/UserController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 1054.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 271.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 115,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

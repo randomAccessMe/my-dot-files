@@ -1,0 +1,12 @@
+<html>
+<head><title>301 Moved Permanently</title><script src="/cdn-cgi/apps/head/aeQBfz1hpFI7rDzdzkka3kB9iuI.js"></script><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1499558638,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"9d64885efcc48d4cbf4d7591ec84130c",petok:"3aa17f434808f74ad022b7fcb378526f30d3f067-1499814267-1800",zone:"antergos.com",rocket:"0",apps:{"ga_key": {"ua": "UA-66507426-1", "ga_bs": "2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=85b614c0f6/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+</head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.12.0</center>
+</body>
+</html>
